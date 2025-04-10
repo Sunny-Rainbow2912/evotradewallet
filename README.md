@@ -17,8 +17,6 @@
 </h5>
 <br>
 
-<img src="/asset/png/FrameExample0-6-3.png?raw=true" />
-
 EvoTradeWallet is a web3 platform that creates a secure system-wide interface to your chains and accounts. Now any browser, command-line, or native application has the ability to access web3.
 
 ### Features
